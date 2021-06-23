@@ -8,7 +8,7 @@
 
 ## 설치하기
 
-[윈도우 64비트](https://github.com/Rapiz1/DungeonRush/releases/download/v1.1-beta/DungeonRush-v1.1-beta-Windows-x86_64.zip)
+[윈도우 64비트](https://github.com/juwon0102/C-STUDENT-V1.0.1/download/석차.exe)
 다운받으면 프로그램 이름은 `석차.exe`예요.
 
 ## 추가된 사항들
